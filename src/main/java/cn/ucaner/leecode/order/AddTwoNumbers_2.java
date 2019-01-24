@@ -81,10 +81,24 @@ public class AddTwoNumbers_2 {
 	 * @Autor: @Jason - jasonandy@hotmail.com
 	 */
 	public static void main(String[] args) {
-		ListNode listNode1 = new ListNode(243);
-		ListNode listNode2 = new ListNode(564);
-		ListNode addTwoNumbers = addTwoNumbers(listNode1, listNode2);
-		System.out.println(addTwoNumbers);
+		
+		// 8 --> 9 --> 9
+		ListNode list11 = new ListNode(8);
+		ListNode list12 = new ListNode(9);
+		ListNode list13 = new ListNode(9);
+		
+		//2 --> 9 
+		ListNode list21 = new ListNode(2);
+		ListNode list22 = new ListNode(9);
+		
+		list11.next = list12;
+		list12.next = list13;
+		list13.next = null;
+		list21.next = list22;
+		
+		ListNode addTwoNumbers = addTwoNumbers(list11, list21);
+		System.out.println(addTwoNumbers); // 0 - 9 - 0 - 1
+		
 	}
 	
 
