@@ -1,5 +1,16 @@
 package cn.ucaner.leecode.cspiration;
 
+/**
+* @Package：cn.ucaner.leecode.cspiration   
+* @ClassName：_10_RegularExpressionMatching  
+* @Description：   <p> _10_RegularExpressionMatching - </p>
+* @Author： Jason    
+* @CreatTime：2019年2月3日 - 下午10:39:36
+* @Modify By：   
+* @ModifyTime：  2019年2月3日
+* @Modify marker：   
+* @version    V1.0
+ */
 public class _10_RegularExpressionMatching {
     /**
      * Implement regular expression matching with support for '.' and '*'.

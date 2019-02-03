@@ -1,5 +1,16 @@
 package cn.ucaner.leecode.cspiration;
 
+/**
+* @Package：cn.ucaner.leecode.cspiration   
+* @ClassName：_100_SameTree  
+* @Description：   <p> _100_SameTree - </p>
+* @Author： Jason    
+* @CreatTime：2019年2月3日 - 下午10:39:44
+* @Modify By：   
+* @ModifyTime：  2019年2月3日
+* @Modify marker：   
+* @version    V1.0
+ */
 public class _100_SameTree {
 
     /**

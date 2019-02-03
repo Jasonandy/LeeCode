@@ -2,6 +2,17 @@ package cn.ucaner.leecode.cspiration;
 
 import java.util.HashMap;
 
+/**
+* @Package：cn.ucaner.leecode.cspiration   
+* @ClassName：_1_TwoSum  
+* @Description：   <p> _1_TwoSum - </p>
+* @Author： Jason    
+* @CreatTime：2019年2月3日 - 下午10:39:12
+* @Modify By：   
+* @ModifyTime：  2019年2月3日
+* @Modify marker：   
+* @version    V1.0
+ */
 public class _1_TwoSum {
 
     /**
