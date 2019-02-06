@@ -21,7 +21,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**     
 * @Package：cn.ucaner.leecode   
 * @ClassName：LeeCodeApplication   
-* @Description：   <p> LeeCodeApplication </p>
+* @Description：   <p> LeeCodeApplication - HappyNewYear2019 </p>
 * @Author： - Jason    
 * @CreatTime：2019年1月24日 上午10:49:07   
 * @Modify By：   
@@ -43,7 +43,7 @@ public class LeeCodeApplication {
 	chore: 修改工具相关（包括但不限于文档、代码生成等）
 	deps: 升级依赖
 	**************************************************/
-	 public static void main(String[] args) {
-	        SpringApplication.run(LeeCodeApplication.class, args);
-	    }
+	public static void main(String[] args) {
+        SpringApplication.run(LeeCodeApplication.class, args);
+    }
 }
