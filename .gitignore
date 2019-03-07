@@ -1,5 +1,8 @@
+###########ignore by jason############
 /.settings
 /.project
 /logs
 /target
 /.classpath
+.idea/
+######################################
